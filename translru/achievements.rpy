@@ -2,10 +2,7 @@
 
 translate russiantl strings:
 
-    # achievements.rpy:10
-    old "Achievement progress: [persistent.achievements]+1/63"
-    new "Прогресс достижений: [persistent.achievements]+1/63"
-
+    
     # achievements.rpy:12
     old "Achievement progress: [persistent.achievements]/63"
     new "Прогресс достижений: [persistent.achievements]/63"
